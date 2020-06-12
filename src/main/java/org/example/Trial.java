@@ -52,8 +52,7 @@ public class Trial {
     public static void downloadDir(String bucket_name, String key_prefix,
                                    String dir_path, boolean pause) {
         AWSCredentials credentials = new BasicAWSCredentials(
-                "AKIA3HFAEGQUHW5DL6V2",
-                "A6YcfWFpscu850VKHV6lyOgIXFYFyG62o8VyFQbz"
+                "XXXXX2","XXXXXXXXX"
         );
 
         AmazonS3 s3client = AmazonS3ClientBuilder
