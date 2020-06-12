@@ -60,8 +60,8 @@ public class App {
         downloadDir("m-source-bucket", "folder1/", "/home/ruyam/projects/wahidSirProjects/backend/sirLatest/temp/awss3multifiledownload/downloads/", false);
 
     }
-//    export AWS_ACCESS_KEY_ID=AKIA3HFAEGQUHW5DL6V2
-//    export AWS_SECRET_ACCESS_KEY=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
+//    export AWS_ACCESS_KEY_ID=XXXXX
+//    export AWA_SECRET=Xxxxx
 //    export AWS_REGION="ap-south-1"
 
 }
